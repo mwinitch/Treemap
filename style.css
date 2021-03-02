@@ -1,0 +1,19 @@
+svg {
+    display: block;
+    margin: auto;
+    font: 15px sans-serif;
+}
+
+.toolTip {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    color: black;
+    font: 16px sans-serif;
+    padding: 5px;
+    border: 1px solid black;
+}
