@@ -4,7 +4,7 @@ let w = window.screen.width;
 
 var margin = {top: 5, right: 5, bottom: 5, left: 5},
 
-// Set the width and heigh of the graph depending on the screen size
+// Set the width and height of the graph depending on the screen size
 width = Math.floor(w * 0.9) - margin.left - margin.right,
 height = Math.floor(h * 0.80) - margin.top - margin.bottom;
 
